@@ -1,0 +1,14 @@
+{
+  "name": "@mukulg/manage-packages-with-npm",
+  "version": "1.0.0",
+  "description": "Part of Free Code Camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Mukul Gupta",
+  "license": "ISC"
+}
